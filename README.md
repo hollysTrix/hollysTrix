@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=hollysTrix&abbreviated=true&color=blueviolet) 
 <!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api/?&theme=tokyonight)
+
 <div id="badges">
   <a href="https://uk.linkedin.com/in/hollytranter">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
