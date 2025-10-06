@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hollysTrix
 - 👀 I’m interested in challenges, reading and gaming on my PC.
-- 🌱 I’m currently doing a Data Analytics Engineer placement!
+- 🌱 I’m currently in final year of Computing Science!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a degree in Cardiac Physiology
 
